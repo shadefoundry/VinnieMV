@@ -7,4 +7,5 @@
 * RM CoreScript team for the script Community_Basic
 * Shaz for her "More Character Frames" script, which has been used to actually reduce character frames (heh). It can be found here: https://forums.rpgmakerweb.com/index.php?threads/more-character-frames.46759/
 * Hudell for his "Orange - Move Character To" script. It can be found here: https://forums.rpgmakerweb.com/index.php?threads/orange-move-character-to.46735/
+* ocean pollen for their "Optionless" script, with some of my own modifications. It can be found here: https://steamcommunity.com/app/363890/discussions/4/490125103617717772/
 * Degica/Kadokawa for the RPG Maker MV Engine
