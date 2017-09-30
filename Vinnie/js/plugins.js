@@ -4,5 +4,6 @@ var $plugins =
 [
 {"name":"Community_Basic","status":true,"description":"Plugin used to set basic parameters.","parameters":{"cacheLimit":"20","screenWidth":"694","screenHeight":"624","changeWindowWidthTo":"","changeWindowHeightTo":"","renderingMode":"auto","alwaysDash":"off"}},
 {"name":"more_character_frames_(mv)","status":true,"description":"Allows more than 3 Frames","parameters":{}},
-{"name":"OrangeMoveCharacterTo","status":true,"description":"This plugin adds a script call and a plugin command you can use to move the player or an event to a specific position.","parameters":{"failedMovementDelay":"30"}}
+{"name":"OrangeMoveCharacterTo","status":true,"description":"This plugin adds a script call and a plugin command you can use to move the player or an event to a specific position.","parameters":{"failedMovementDelay":"30"}},
+{"name":"Optionless","status":true,"description":"Remove options from the user","parameters":{}}
 ];
